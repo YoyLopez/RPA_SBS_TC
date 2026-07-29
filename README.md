@@ -1,10 +1,10 @@
-# RPA con Interacción Humanizada para la Extracción del Tipo de Cambio Contable SBS :octocat:
+# RPA con Interacción Humanizada para la Extracción del Tipo de Cambio Contable SBS (Perú) :octocat:
 
 <img width="2501" height="521" alt="Image" src="https://github.com/user-attachments/assets/d6942078-9500-4393-921a-61082fc2f57e" />
 
 Automatización robótica de procesos (RPA) para la extracción, persistencia y consulta del **Tipo de Cambio Contable** de la Superintendencia de Banca, Seguros y AFP (SBS) del Perú. 
 
-Esta solución está diseñada para entornos de alta seguridad e integración en reportes financieros y bancarios automatizados.
+Esta solución está diseñada para entornos de alta seguridad e integración en reportes financieros automatizados.
 
 ---
 
