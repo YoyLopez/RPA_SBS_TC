@@ -1,4 +1,4 @@
-# RPA con Interacción Humanizada para la Extracción del Tipo de Cambio Contable SBS (Perú) :octocat:
+# 🤖 RPA con Interacción Humanizada para la Extracción del Tipo de Cambio Contable SBS (Perú) :octocat:
 
 <img width="2501" height="521" alt="Image" src="https://github.com/user-attachments/assets/d6942078-9500-4393-921a-61082fc2f57e" />
 
